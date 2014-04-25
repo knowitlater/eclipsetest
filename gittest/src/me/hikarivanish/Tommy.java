@@ -2,6 +2,6 @@ package me.hikarivanish;
 
 public class Tommy {
 	static {
-		System.out.println("ÖĞÎÄ²âÊÔ");
+		System.out.println("ä¸­æ–‡æµ‹è¯•");
 	}
 }
